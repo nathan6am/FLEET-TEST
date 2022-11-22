@@ -2,6 +2,8 @@
  
 FLEET is an engaging engineering game for students 8-18 years old. If you haven't played FLEET yet, click on the short video above to watch a 45-second overview. Schools taught physical science and the engineering design process with FLEET and now we hope to support your STEAM adventure at home. 
 
+You can download the latest version of FLEET from the [releases](https://github.com/nathan6am/FLEET-TEST/releases/tag/v1.4.2) section.
+
 When you first open FLEET, click "Sign up now!" to create an account. The FLEET account code is: **fleetrocks2018**
 If you are looking to join a previous FLEET competition group, you can find the group name on our [FLEET Organizations page.](https://www.navalengineers.org/STEM-FLEET/Orgs)
 
@@ -26,4 +28,16 @@ If you are looking to join a previous FLEET competition group, you can find the 
 - Graphics Card: DirectX 9.0c compatible card
 - Latest Version: January 7, 2018
 
-## Installation Guide
+## Quick Start
+
+For more detailed instructions, you can [download the complete user guide here](https://www.navalengineers.org/Portals/16/FLEET/Forms_Intro_Materials/UserGuide/FLEET_UserGuide081618.compressed.pdf?ver=2018-08-22-105109-067)
+
+1. Download FLEET from the [releases](https://github.com/nathan6am/FLEET-TEST/releases/tag/v1.4.2) section. Choose the correct version for your machine
+2. Open the installer and follow the prompts to install FLEET. 
+3. Open FLEET then create and validate your new account using the registration code “fleetrocks2018” You can create your log-in, password, and organization in these screens.
+4. Log into FLEET using you newly-created account.
+5. If you want to quickly explore the game, choose “Quick Play”. Or, you can start a mission in “Mission Headquarters”.
+6. You will design your ship in the drydock by adding and removing components. Be sure to explore the menus to find all the components, boats, helicopters, etc. 
+7. You can save three different ships and open them later. 
+8. Check the logbook occasionally to compare your scores to others 
+
