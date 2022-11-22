@@ -26,4 +26,4 @@ If you are looking to join a previous FLEET competition group, you can find the 
 - Graphics Card: DirectX 9.0c compatible card
 - Latest Version: January 7, 2018
 
-##Installation Guide
+## Installation Guide
